@@ -130,4 +130,5 @@ client.on(Events.MessageCreate, async (message) => {
 });
 
 
-client.login(process.env.MTQ3OTA2MzI1MzA1MjAzNTEyNA.G9YPZ5.n1DTXV7Y1S9YyFgvhthkHSB4POwnmCturagpGE);
+client.login(process.env.DISCORD_TOKEN);
+
